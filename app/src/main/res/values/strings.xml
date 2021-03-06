@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="sync">Synchronization</string>
+    <string name="morning">It is morning</string>
+    <string name="afternoon">It is afternoon</string>
+    <string name="evening">It is evening</string>
+</resources>
